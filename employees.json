@@ -1,0 +1,32 @@
+{
+    "employees": [
+        {
+            "name": "Monica Cantella",
+            "shifts": []
+        },
+        {
+            "name": "Sara Bagnoli",
+            "shifts": []
+        },
+        {
+            "name": "Mohammed Kalali",
+            "shifts": []
+        },
+        {
+            "name": "Massimiliano Bacci",
+            "shifts": []
+        },
+        {
+            "name": "Ilaria Cecconi",
+            "shifts": []
+        },
+        {
+            "name": "Elisa Casini",
+            "shifts": []
+        },
+        {
+            "name": "Manuela Albertoni",
+            "shifts": []
+        }
+    ]
+}
